@@ -4,6 +4,8 @@
 
 I'm a developer with a strong interest in automation, AI-powered applications, and creatively engineered solutions. My projects range from AI-driven assistants to optimized cloud-based workflows. I enjoy working on practical applications that blend machine learning, cloud infrastructure, and automation to improve everyday tasks.
 
+I'm currently looking for work, so feel free to reach out to me at [anand.tandon@uwaterloo.ca](mailto:anand.tandon@uwaterloo.ca) if you think I'd be a good fit and can offer a challenge.
+
 ## Projects
 
 ### [ATPhoto](https://github.com/m3di0cre3/at_photo_frontend) ([website](https://atphoto.net))
